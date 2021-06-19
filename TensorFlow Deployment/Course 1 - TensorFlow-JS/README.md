@@ -9,5 +9,4 @@ You will need to have an internet browser, an HTML editor, and a web server inst
 
 The exercise and example in Week 3 of this course also contains a Jupyter Notebook. To run this notebook you will need have installed Jupyter with Python 3, TensorFlow 2.0, Tensorflowjs, NumPy, and Matplotlib.  
 
-
 Have fun learning TensorFlow.js!
